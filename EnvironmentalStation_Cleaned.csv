@@ -1,0 +1,501 @@
+Station_ID,Location,Temperature_C,Humidity_%,Wind_Speed_kmh,Precipitation_mm,Air_Quality_Index,Date,Sensor_Status,Notes,Region,Elevation_m
+STN_0001,Pacific,-5,100%,15,12,400,2025-10-03,Off,Check Sensor,South,2000
+STN_0002,Desrt ,-5,45%,15,0,400,2025-10-01,Ok,Data Lost,North,2000
+STN_0003,Amazon,21,80%,17,20,400,2025-10-03,Inactive,Normal,North,2000
+STN_0004,Amazon,21,100%,17,12,400,2025-10-01,Off,Data Lost,North,2000
+STN_0005,Amazon,30,35%,12,0,150,2025-10-03,Ok,Data Lost,North,120
+STN_0006,Pacific,-5,75%,18,12,400,2025-10-02,Off,Storm Impact,North,120
+STN_0007,Arctic,-5,90%,18,4,150,2025-10-02,Faulty,Calibration Needed,North,550
+STN_0008,Pacific,21,90%,17,20,400,2025-10-03,Faulty,Storm Impact,North,550
+STN_0009,Arctic,21,68%,12,12,50,2025-10-03,Off,Calibration Needed,North,550
+STN_0010,Pacific,-5,60%,18,12,150,2025-10-03,Inactive,Storm Impact,South,2300
+STN_0011,Pacific,30,75%,12,4,150,2025-10-03,Inactive,Check Sensor,West,2300
+STN_0012,Pacific,30,68%,12,12,100,2025-10-03,Off,Data Lost,West,2300
+STN_0013,Himalaya,40,75%,12,12,400,2025-10-01,Ok,Calibration Needed,South,550
+STN_0014,Pacific,30,35%,25,20,40,2025-10-03,Ok,Data Lost,East,550
+STN_0015,Pacific,30,60%,15,12,40,2025-10-02,Inactive,Data Lost,East,2000
+STN_0016,Sahara,40,100%,12,0,50,2025-10-03,Active,Data Lost,West,550
+STN_0017,Himalaya,15,100%,25,12,400,2025-10-03,Faulty,Data Lost,East,550
+STN_0018,Pacific,15,90%,17,4,50,2025-10-03,Off,Data Lost,East,2300
+STN_0019,Desrt ,30,100%,18,12,40,2025-10-01,Active,Storm Impact,West,2000
+STN_0020,Amazon,30,100%,15,12,100,2025-10-03,Off,Calibration Needed,West,550
+STN_0021,Sahara,-5,35%,17,0,150,2025-10-02,Faulty,Calibration Needed,North,550
+STN_0022,Sahara,21,45%,18,20,150,2025-10-03,Faulty,Data Lost,West,550
+STN_0023,Pacific,30,90%,15,12,400,2025-10-03,Inactive,Check Sensor,West,2000
+STN_0024,Sahara,21,68%,17,20,150,2025-10-01,Inactive,Check Sensor,West,2000
+STN_0025,Himalaya,40,80%,18,20,400,2025-10-03,Active,Data Lost,East,2000
+STN_0026,Pacific,30,45%,15,0,400,2025-10-02,Off,Data Lost,South,2300
+STN_0027,Pacific,30,68%,18,4,400,2025-10-03,Faulty,Storm Impact,North,2300
+STN_0028,Desrt ,22,60%,18,12,40,2025-10-03,Active,Data Lost,North,2300
+STN_0029,Amazon,22,45%,17,12,40,2025-10-03,Active,Data Lost,North,120
+STN_0030,Pacific,15,35%,18,0,400,2025-10-02,Active,Data Lost,South,2000
+STN_0031,Amazon,40,68%,18,20,150,2025-10-03,Ok,Normal,West,2300
+STN_0032,Sahara,21,60%,17,20,400,2025-10-03,Active,Data Lost,North,2300
+STN_0033,Desrt ,-5,90%,17,0,400,2025-10-02,Ok,Storm Impact,North,2300
+STN_0034,Amazon,21,80%,12,0,150,2025-10-01,Ok,Data Lost,North,2300
+STN_0035,Himalaya,21,60%,17,20,50,2025-10-03,Ok,Storm Impact,North,2000
+STN_0036,Pacific,21,100%,25,20,400,2025-10-03,Ok,Calibration Needed,West,550
+STN_0037,Sahara,40,75%,17,4,400,2025-10-03,Active,Storm Impact,West,2000
+STN_0038,Desrt ,21,60%,17,12,150,2025-10-02,Active,Check Sensor,South,120
+STN_0039,Amazon,21,60%,15,20,150,2025-10-01,Active,Check Sensor,North,2000
+STN_0040,Pacific,40,80%,12,4,100,2025-10-03,Faulty,Storm Impact,South,2000
+STN_0041,Himalaya,21,75%,15,12,100,2025-10-02,Inactive,Check Sensor,South,2000
+STN_0042,Himalaya,40,100%,12,0,150,2025-10-02,Active,Calibration Needed,North,2000
+STN_0043,Amazon,15,68%,17,0,150,2025-10-03,Inactive,Data Lost,North,2000
+STN_0044,Pacific,30,68%,17,20,40,2025-10-01,Off,Check Sensor,North,550
+STN_0045,Amazon,22,60%,12,20,400,2025-10-01,Off,Check Sensor,North,550
+STN_0046,Sahara,21,35%,18,0,150,2025-10-03,Off,Storm Impact,North,2000
+STN_0047,Amazon,15,35%,17,0,100,2025-10-03,Off,Calibration Needed,North,550
+STN_0048,Himalaya,30,75%,18,0,40,2025-10-03,Off,Data Lost,East,550
+STN_0049,Desrt ,22,75%,17,12,40,2025-10-03,Faulty,Storm Impact,East,550
+STN_0050,Amazon,30,100%,15,4,150,2025-10-03,Faulty,Storm Impact,East,550
+STN_0051,Pacific,-5,80%,17,20,40,2025-10-01,Faulty,Normal,East,2300
+STN_0052,Desrt ,21,90%,15,20,400,2025-10-03,Off,Calibration Needed,North,2000
+STN_0053,Pacific,30,68%,17,12,150,2025-10-03,Off,Data Lost,North,2000
+STN_0054,Arctic,40,80%,17,4,400,2025-10-02,Ok,Calibration Needed,North,2000
+STN_0055,Amazon,22,45%,17,12,150,2025-10-02,Ok,Data Lost,South,2000
+STN_0056,Pacific,30,68%,17,0,150,2025-10-03,Inactive,Calibration Needed,North,2000
+STN_0057,Desrt ,-5,80%,17,20,150,2025-10-03,Ok,Storm Impact,West,550
+STN_0058,Pacific,15,68%,17,20,50,2025-10-01,Ok,Storm Impact,East,550
+STN_0059,Pacific,22,90%,17,0,150,2025-10-03,Faulty,Data Lost,East,2300
+STN_0060,Himalaya,30,45%,15,0,40,2025-10-03,Faulty,Check Sensor,North,2000
+STN_0061,Pacific,21,35%,18,4,400,2025-10-01,Off,Normal,North,2000
+STN_0062,Desrt ,21,35%,15,20,150,2025-10-03,Inactive,Calibration Needed,North,2000
+STN_0063,Pacific,30,90%,18,12,40,2025-10-03,Active,Normal,North,120
+STN_0064,Pacific,30,100%,17,0,150,2025-10-02,Inactive,Data Lost,North,120
+STN_0065,Pacific,21,45%,17,4,400,2025-10-01,Inactive,Check Sensor,North,550
+STN_0066,Sahara,30,60%,17,12,40,2025-10-03,Inactive,Calibration Needed,North,120
+STN_0067,Sahara,15,80%,12,12,400,2025-10-03,Off,Data Lost,West,550
+STN_0068,Himalaya,22,45%,17,0,40,2025-10-01,Off,Check Sensor,West,550
+STN_0069,Amazon,22,100%,18,12,50,2025-10-03,Inactive,Storm Impact,North,550
+STN_0070,Pacific,15,100%,15,20,150,2025-10-03,Inactive,Data Lost,North,120
+STN_0071,Pacific,30,90%,17,20,40,2025-10-03,Inactive,Check Sensor,South,120
+STN_0072,Amazon,15,68%,18,0,100,2025-10-03,Ok,Check Sensor,South,120
+STN_0073,Pacific,-5,45%,15,12,100,2025-10-03,Ok,Storm Impact,South,120
+STN_0074,Amazon,40,80%,17,20,50,2025-10-01,Inactive,Calibration Needed,West,550
+STN_0075,Himalaya,15,45%,17,0,400,2025-10-01,Faulty,Data Lost,South,2300
+STN_0076,Pacific,21,75%,17,12,150,2025-10-03,Off,Storm Impact,South,2000
+STN_0077,Pacific,15,68%,25,4,150,2025-10-03,Off,Data Lost,South,120
+STN_0078,Arctic,22,80%,12,0,50,2025-10-03,Faulty,Calibration Needed,South,550
+STN_0079,Pacific,21,35%,25,0,400,2025-10-02,Off,Check Sensor,North,550
+STN_0080,Amazon,22,80%,17,4,150,2025-10-03,Ok,Data Lost,North,120
+STN_0081,Amazon,30,60%,18,0,100,2025-10-01,Ok,Data Lost,North,120
+STN_0082,Sahara,21,90%,17,0,100,2025-10-03,Active,Data Lost,North,2000
+STN_0083,Arctic,22,60%,17,20,150,2025-10-03,Active,Storm Impact,East,550
+STN_0084,Desrt ,21,80%,15,12,50,2025-10-03,Active,Calibration Needed,South,2300
+STN_0085,Desrt ,30,68%,17,20,100,2025-10-03,Off,Storm Impact,East,2300
+STN_0086,Sahara,22,45%,25,0,150,2025-10-02,Ok,Storm Impact,East,550
+STN_0087,Sahara,-5,35%,25,12,400,2025-10-03,Ok,Normal,South,550
+STN_0088,Sahara,15,45%,17,12,40,2025-10-03,Ok,Storm Impact,South,120
+STN_0089,Pacific,21,68%,25,12,150,2025-10-03,Faulty,Normal,West,2000
+STN_0090,Pacific,22,80%,17,20,150,2025-10-03,Ok,Data Lost,East,2000
+STN_0091,Himalaya,30,100%,17,12,100,2025-10-03,Faulty,Data Lost,West,2000
+STN_0092,Himalaya,-5,45%,17,4,50,2025-10-03,Active,Storm Impact,South,2300
+STN_0093,Sahara,30,100%,18,20,150,2025-10-01,Active,Data Lost,North,2000
+STN_0094,Arctic,30,45%,15,0,50,2025-10-01,Off,Calibration Needed,South,120
+STN_0095,Amazon,15,45%,18,12,400,2025-10-02,Active,Normal,West,2300
+STN_0096,Pacific,30,35%,17,4,400,2025-10-01,Off,Normal,East,550
+STN_0097,Arctic,-5,90%,15,0,400,2025-10-03,Inactive,Storm Impact,East,2000
+STN_0098,Pacific,30,90%,25,12,100,2025-10-03,Inactive,Data Lost,East,2300
+STN_0099,Pacific,-5,75%,12,20,100,2025-10-03,Inactive,Data Lost,East,120
+STN_0100,Pacific,22,60%,17,12,100,2025-10-02,Off,Normal,East,120
+STN_0101,Himalaya,40,68%,17,4,400,2025-10-03,Off,Storm Impact,East,120
+STN_0102,Amazon,-5,68%,17,0,400,2025-10-01,Off,Storm Impact,West,120
+STN_0103,Amazon,-5,68%,18,0,50,2025-10-03,Inactive,Calibration Needed,East,120
+STN_0104,Desrt ,21,75%,17,12,400,2025-10-03,Off,Check Sensor,East,120
+STN_0105,Desrt ,-5,90%,17,20,400,2025-10-03,Inactive,Check Sensor,North,120
+STN_0106,Desrt ,-5,80%,25,12,50,2025-10-01,Inactive,Normal,North,120
+STN_0107,Desrt ,30,100%,25,12,100,2025-10-03,Off,Calibration Needed,North,2300
+STN_0108,Pacific,40,35%,15,0,150,2025-10-03,Off,Calibration Needed,North,2300
+STN_0109,Pacific,22,100%,17,0,50,2025-10-01,Ok,Calibration Needed,East,120
+STN_0110,Pacific,15,80%,17,4,400,2025-10-03,Off,Normal,East,2000
+STN_0111,Sahara,21,35%,12,12,150,2025-10-03,Off,Check Sensor,South,550
+STN_0112,Himalaya,30,75%,17,20,150,2025-10-03,Off,Calibration Needed,South,550
+STN_0113,Himalaya,21,80%,17,0,40,2025-10-03,Ok,Data Lost,North,550
+STN_0114,Desrt ,40,68%,12,12,40,2025-10-03,Faulty,Storm Impact,North,2000
+STN_0115,Pacific,22,60%,15,0,400,2025-10-03,Inactive,Storm Impact,South,2000
+STN_0116,Arctic,22,45%,25,12,150,2025-10-01,Inactive,Data Lost,South,120
+STN_0117,Sahara,21,100%,17,12,150,2025-10-01,Off,Data Lost,East,120
+STN_0118,Pacific,15,90%,18,12,100,2025-10-01,Inactive,Normal,East,2300
+STN_0119,Sahara,-5,90%,25,20,400,2025-10-03,Inactive,Normal,East,2300
+STN_0120,Sahara,30,75%,17,20,40,2025-10-01,Inactive,Storm Impact,North,2300
+STN_0121,Sahara,30,35%,25,20,150,2025-10-03,Faulty,Data Lost,South,2000
+STN_0122,Pacific,21,90%,17,20,400,2025-10-03,Active,Check Sensor,South,2000
+STN_0123,Desrt ,30,68%,17,20,400,2025-10-03,Active,Check Sensor,South,2000
+STN_0124,Himalaya,21,100%,17,0,100,2025-10-01,Active,Normal,North,2300
+STN_0125,Himalaya,22,80%,15,20,400,2025-10-03,Active,Data Lost,North,2000
+STN_0126,Desrt ,15,68%,17,12,150,2025-10-01,Active,Normal,North,2300
+STN_0127,Sahara,22,75%,17,0,100,2025-10-03,Inactive,Check Sensor,North,2300
+STN_0128,Arctic,21,68%,18,0,150,2025-10-03,Ok,Normal,South,2300
+STN_0129,Amazon,22,80%,12,0,400,2025-10-03,Inactive,Calibration Needed,North,550
+STN_0130,Pacific,22,60%,17,20,150,2025-10-03,Inactive,Normal,North,550
+STN_0131,Amazon,21,75%,12,12,400,2025-10-02,Off,Storm Impact,North,550
+STN_0132,Desrt ,30,60%,17,0,40,2025-10-01,Off,Normal,South,550
+STN_0133,Arctic,30,45%,18,12,150,2025-10-03,Active,Storm Impact,North,550
+STN_0134,Pacific,21,60%,25,12,100,2025-10-01,Inactive,Data Lost,East,120
+STN_0135,Desrt ,15,45%,18,4,400,2025-10-03,Active,Check Sensor,South,120
+STN_0136,Sahara,21,45%,17,0,400,2025-10-01,Off,Data Lost,North,120
+STN_0137,Himalaya,40,60%,18,20,400,2025-10-03,Ok,Data Lost,North,2300
+STN_0138,Amazon,22,75%,17,20,400,2025-10-03,Ok,Check Sensor,North,550
+STN_0139,Pacific,15,35%,18,12,50,2025-10-03,Active,Data Lost,North,2300
+STN_0140,Pacific,22,80%,17,4,150,2025-10-02,Ok,Normal,North,2300
+STN_0141,Arctic,40,68%,15,0,400,2025-10-03,Ok,Data Lost,North,2000
+STN_0142,Sahara,21,68%,17,20,50,2025-10-03,Faulty,Data Lost,East,120
+STN_0143,Amazon,30,80%,18,12,40,2025-10-03,Active,Check Sensor,North,2300
+STN_0144,Sahara,15,100%,17,12,40,2025-10-03,Active,Data Lost,East,2300
+STN_0145,Amazon,-5,100%,17,0,400,2025-10-03,Faulty,Normal,East,2300
+STN_0146,Arctic,-5,45%,18,0,150,2025-10-03,Faulty,Data Lost,East,2300
+STN_0147,Arctic,40,45%,15,0,400,2025-10-03,Active,Data Lost,East,2000
+STN_0148,Pacific,-5,75%,25,20,150,2025-10-01,Faulty,Calibration Needed,East,120
+STN_0149,Sahara,30,90%,17,12,150,2025-10-03,Inactive,Calibration Needed,East,120
+STN_0150,Pacific,40,60%,17,0,100,2025-10-03,Inactive,Data Lost,South,120
+STN_0151,Pacific,30,45%,25,0,40,2025-10-01,Inactive,Check Sensor,West,120
+STN_0152,Sahara,21,68%,18,12,400,2025-10-03,Inactive,Storm Impact,North,550
+STN_0153,Pacific,22,75%,25,20,400,2025-10-01,Inactive,Storm Impact,North,2000
+STN_0154,Pacific,21,60%,17,0,400,2025-10-03,Faulty,Normal,West,2000
+STN_0155,Himalaya,21,75%,12,20,100,2025-10-03,Ok,Data Lost,North,2000
+STN_0156,Himalaya,30,60%,17,12,400,2025-10-01,Faulty,Data Lost,North,2000
+STN_0157,Himalaya,40,60%,18,0,100,2025-10-02,Active,Data Lost,North,2000
+STN_0158,Himalaya,40,80%,17,12,150,2025-10-01,Off,Check Sensor,North,550
+STN_0159,Desrt ,-5,45%,15,12,40,2025-10-03,Off,Calibration Needed,North,550
+STN_0160,Amazon,30,35%,17,20,400,2025-10-03,Faulty,Data Lost,North,120
+STN_0161,Desrt ,22,75%,18,0,400,2025-10-03,Ok,Data Lost,East,2000
+STN_0162,Desrt ,30,35%,17,12,150,2025-10-01,Active,Data Lost,West,2000
+STN_0163,Desrt ,-5,75%,15,0,50,2025-10-03,Inactive,Check Sensor,East,2000
+STN_0164,Himalaya,15,80%,15,20,40,2025-10-02,Inactive,Normal,East,120
+STN_0165,Pacific,30,68%,18,12,400,2025-10-03,Ok,Data Lost,North,120
+STN_0166,Arctic,30,35%,17,20,150,2025-10-03,Active,Data Lost,North,2000
+STN_0167,Arctic,30,68%,25,12,400,2025-10-03,Active,Storm Impact,North,120
+STN_0168,Amazon,21,100%,25,0,150,2025-10-03,Faulty,Normal,East,120
+STN_0169,Himalaya,22,45%,15,20,400,2025-10-03,Active,Data Lost,East,120
+STN_0170,Himalaya,30,45%,25,12,400,2025-10-01,Inactive,Data Lost,South,120
+STN_0171,Himalaya,30,90%,12,4,100,2025-10-03,Ok,Data Lost,North,550
+STN_0172,Pacific,30,80%,15,0,400,2025-10-03,Ok,Check Sensor,North,550
+STN_0173,Sahara,-5,68%,15,0,150,2025-10-03,Faulty,Data Lost,East,2300
+STN_0174,Pacific,15,60%,17,0,40,2025-10-03,Ok,Storm Impact,East,2300
+STN_0175,Sahara,21,75%,25,4,400,2025-10-03,Ok,Data Lost,East,2300
+STN_0176,Himalaya,22,45%,17,4,150,2025-10-03,Active,Storm Impact,East,2300
+STN_0177,Himalaya,40,35%,15,12,150,2025-10-03,Active,Normal,East,550
+STN_0178,Pacific,21,75%,17,0,400,2025-10-03,Faulty,Normal,North,2300
+STN_0179,Pacific,15,75%,12,20,400,2025-10-03,Active,Calibration Needed,South,2300
+STN_0180,Sahara,15,90%,17,12,40,2025-10-03,Active,Calibration Needed,East,2300
+STN_0181,Arctic,-5,68%,18,12,50,2025-10-02,Active,Storm Impact,South,120
+STN_0182,Sahara,40,45%,17,12,40,2025-10-02,Off,Check Sensor,South,2000
+STN_0183,Pacific,30,75%,15,20,50,2025-10-03,Active,Data Lost,South,120
+STN_0184,Pacific,30,45%,12,0,100,2025-10-01,Ok,Data Lost,West,120
+STN_0185,Pacific,-5,60%,17,4,40,2025-10-01,Ok,Calibration Needed,North,550
+STN_0186,Pacific,30,90%,12,0,400,2025-10-01,Faulty,Storm Impact,West,550
+STN_0187,Amazon,30,60%,12,4,50,2025-10-02,Faulty,Data Lost,West,550
+STN_0188,Pacific,21,45%,17,20,150,2025-10-01,Faulty,Data Lost,West,120
+STN_0189,Amazon,22,100%,18,0,400,2025-10-03,Ok,Check Sensor,North,120
+STN_0190,Arctic,15,35%,17,12,150,2025-10-03,Inactive,Data Lost,North,120
+STN_0191,Sahara,15,45%,25,20,40,2025-10-02,Active,Calibration Needed,North,550
+STN_0192,Pacific,21,68%,25,12,150,2025-10-03,Ok,Calibration Needed,South,550
+STN_0193,Sahara,40,75%,17,12,50,2025-10-03,Off,Data Lost,South,550
+STN_0194,Amazon,30,75%,12,12,400,2025-10-03,Off,Data Lost,South,550
+STN_0195,Pacific,15,60%,17,20,400,2025-10-02,Active,Check Sensor,South,550
+STN_0196,Sahara,21,35%,17,0,150,2025-10-01,Faulty,Check Sensor,South,550
+STN_0197,Pacific,40,90%,25,12,50,2025-10-01,Inactive,Calibration Needed,West,2300
+STN_0198,Himalaya,22,100%,17,0,50,2025-10-03,Off,Check Sensor,West,2300
+STN_0199,Amazon,22,80%,17,12,400,2025-10-03,Faulty,Normal,East,2300
+STN_0200,Sahara,15,35%,17,20,400,2025-10-01,Faulty,Data Lost,South,2300
+STN_0201,Amazon,-5,75%,17,4,400,2025-10-03,Active,Data Lost,South,120
+STN_0202,Desrt ,40,68%,18,0,40,2025-10-03,Active,Normal,East,2300
+STN_0203,Amazon,15,35%,17,12,150,2025-10-03,Active,Data Lost,East,2000
+STN_0204,Pacific,-5,60%,15,0,40,2025-10-03,Ok,Storm Impact,East,120
+STN_0205,Desrt ,15,60%,15,0,400,2025-10-01,Inactive,Calibration Needed,East,2000
+STN_0206,Pacific,21,80%,18,0,40,2025-10-03,Ok,Check Sensor,East,550
+STN_0207,Himalaya,40,68%,25,4,400,2025-10-03,Ok,Storm Impact,East,2000
+STN_0208,Desrt ,30,90%,18,20,400,2025-10-01,Ok,Check Sensor,East,2000
+STN_0209,Pacific,22,35%,17,12,150,2025-10-01,Inactive,Normal,West,2000
+STN_0210,Amazon,15,68%,15,0,40,2025-10-03,Active,Data Lost,East,2000
+STN_0211,Sahara,21,90%,12,0,50,2025-10-03,Active,Data Lost,West,120
+STN_0212,Arctic,-5,68%,12,20,100,2025-10-03,Off,Data Lost,West,120
+STN_0213,Amazon,-5,68%,25,20,150,2025-10-01,Faulty,Check Sensor,East,2000
+STN_0214,Amazon,22,45%,17,4,50,2025-10-02,Off,Storm Impact,South,120
+STN_0215,Himalaya,21,60%,17,12,400,2025-10-03,Off,Data Lost,East,120
+STN_0216,Pacific,15,35%,17,4,150,2025-10-03,Active,Storm Impact,East,120
+STN_0217,Arctic,40,68%,12,12,100,2025-10-01,Active,Check Sensor,East,2000
+STN_0218,Desrt ,30,35%,12,4,100,2025-10-02,Ok,Normal,East,2300
+STN_0219,Desrt ,-5,80%,15,12,150,2025-10-03,Ok,Storm Impact,South,2300
+STN_0220,Desrt ,40,68%,17,0,150,2025-10-01,Ok,Normal,South,550
+STN_0221,Pacific,40,75%,17,12,150,2025-10-01,Inactive,Check Sensor,North,120
+STN_0222,Pacific,30,60%,12,12,50,2025-10-03,Active,Check Sensor,North,2000
+STN_0223,Sahara,40,75%,17,12,400,2025-10-01,Active,Calibration Needed,West,120
+STN_0224,Arctic,40,35%,25,0,400,2025-10-01,Inactive,Check Sensor,West,120
+STN_0225,Desrt ,30,35%,17,12,400,2025-10-01,Faulty,Check Sensor,South,120
+STN_0226,Pacific,-5,60%,25,0,150,2025-10-03,Faulty,Data Lost,South,120
+STN_0227,Sahara,40,35%,17,20,400,2025-10-03,Off,Data Lost,North,120
+STN_0228,Pacific,21,75%,25,0,50,2025-10-03,Off,Calibration Needed,West,2300
+STN_0229,Sahara,21,68%,12,0,150,2025-10-01,Off,Calibration Needed,North,2300
+STN_0230,Pacific,21,68%,12,12,150,2025-10-03,Ok,Calibration Needed,South,2000
+STN_0231,Himalaya,30,45%,17,20,150,2025-10-03,Ok,Data Lost,South,120
+STN_0232,Himalaya,21,80%,17,0,150,2025-10-03,Off,Normal,South,2300
+STN_0233,Desrt ,30,35%,17,0,150,2025-10-03,Off,Check Sensor,South,550
+STN_0234,Himalaya,15,75%,17,0,100,2025-10-03,Active,Data Lost,South,550
+STN_0235,Desrt ,15,35%,15,0,150,2025-10-03,Active,Storm Impact,South,2300
+STN_0236,Desrt ,40,35%,17,0,400,2025-10-01,Ok,Normal,West,2300
+STN_0237,Pacific,30,90%,17,20,100,2025-10-03,Ok,Check Sensor,North,2300
+STN_0238,Himalaya,15,45%,25,12,150,2025-10-03,Faulty,Data Lost,East,120
+STN_0239,Desrt ,30,75%,17,4,150,2025-10-03,Faulty,Check Sensor,East,120
+STN_0240,Arctic,15,75%,18,4,150,2025-10-03,Ok,Check Sensor,East,550
+STN_0241,Pacific,22,35%,15,0,150,2025-10-03,Active,Data Lost,West,550
+STN_0242,Sahara,15,45%,18,0,400,2025-10-03,Active,Calibration Needed,West,550
+STN_0243,Sahara,21,68%,12,0,50,2025-10-03,Off,Calibration Needed,East,550
+STN_0244,Pacific,-5,75%,17,20,150,2025-10-03,Off,Data Lost,West,550
+STN_0245,Himalaya,40,68%,25,20,100,2025-10-01,Inactive,Data Lost,North,550
+STN_0246,Himalaya,21,45%,17,12,150,2025-10-03,Ok,Calibration Needed,West,550
+STN_0247,Desrt ,-5,68%,18,20,400,2025-10-02,Ok,Normal,West,550
+STN_0248,Amazon,21,60%,25,12,400,2025-10-03,Ok,Storm Impact,West,550
+STN_0249,Desrt ,21,90%,12,12,100,2025-10-02,Inactive,Check Sensor,South,550
+STN_0250,Pacific,21,100%,17,0,400,2025-10-03,Off,Storm Impact,North,2300
+STN_0251,Arctic,30,75%,17,20,400,2025-10-01,Ok,Check Sensor,East,2300
+STN_0252,Sahara,30,80%,15,12,40,2025-10-03,Ok,Calibration Needed,East,120
+STN_0253,Desrt ,22,90%,25,20,40,2025-10-03,Off,Data Lost,South,120
+STN_0254,Amazon,15,100%,25,12,100,2025-10-01,Inactive,Normal,West,2300
+STN_0255,Amazon,21,68%,17,12,150,2025-10-03,Off,Data Lost,South,2300
+STN_0256,Desrt ,21,75%,25,12,50,2025-10-02,Active,Storm Impact,South,2300
+STN_0257,Pacific,-5,68%,12,20,50,2025-10-02,Active,Data Lost,South,120
+STN_0258,Sahara,30,60%,12,20,400,2025-10-02,Off,Calibration Needed,South,120
+STN_0259,Pacific,15,45%,17,0,400,2025-10-03,Inactive,Normal,South,2300
+STN_0260,Arctic,30,75%,15,12,50,2025-10-01,Faulty,Storm Impact,South,550
+STN_0261,Amazon,-5,100%,17,12,400,2025-10-03,Active,Normal,West,2300
+STN_0262,Amazon,15,100%,18,20,400,2025-10-02,Faulty,Check Sensor,South,2000
+STN_0263,Pacific,15,60%,17,12,400,2025-10-03,Off,Data Lost,South,2300
+STN_0264,Arctic,21,60%,25,20,400,2025-10-03,Active,Normal,South,120
+STN_0265,Amazon,21,35%,18,0,400,2025-10-03,Active,Data Lost,East,120
+STN_0266,Arctic,21,75%,17,20,50,2025-10-03,Off,Data Lost,East,2300
+STN_0267,Sahara,21,68%,17,4,40,2025-10-01,Off,Check Sensor,East,2300
+STN_0268,Himalaya,30,80%,15,0,400,2025-10-01,Ok,Normal,North,2000
+STN_0269,Amazon,40,100%,18,12,50,2025-10-03,Faulty,Storm Impact,North,550
+STN_0270,Pacific,30,100%,12,12,400,2025-10-02,Active,Check Sensor,East,550
+STN_0271,Sahara,22,60%,18,20,150,2025-10-03,Active,Data Lost,South,550
+STN_0272,Desrt ,30,90%,25,4,400,2025-10-01,Inactive,Normal,South,2300
+STN_0273,Arctic,21,60%,12,20,400,2025-10-02,Inactive,Calibration Needed,South,2000
+STN_0274,Desrt ,21,80%,17,4,100,2025-10-03,Inactive,Data Lost,West,2000
+STN_0275,Pacific,-5,68%,17,20,400,2025-10-01,Off,Storm Impact,South,2000
+STN_0276,Sahara,21,68%,17,4,400,2025-10-02,Active,Calibration Needed,West,550
+STN_0277,Desrt ,30,90%,17,12,400,2025-10-02,Active,Normal,East,120
+STN_0278,Amazon,30,100%,18,12,40,2025-10-03,Active,Normal,North,2300
+STN_0279,Arctic,21,60%,17,0,150,2025-10-03,Active,Check Sensor,South,2000
+STN_0280,Himalaya,40,35%,17,12,40,2025-10-03,Active,Normal,South,550
+STN_0281,Sahara,22,68%,15,0,400,2025-10-02,Inactive,Storm Impact,South,550
+STN_0282,Amazon,30,80%,17,4,400,2025-10-02,Inactive,Calibration Needed,West,2000
+STN_0283,Pacific,30,75%,17,12,100,2025-10-03,Faulty,Storm Impact,East,550
+STN_0284,Pacific,40,45%,15,20,400,2025-10-01,Off,Data Lost,South,120
+STN_0285,Arctic,-5,45%,25,20,40,2025-10-01,Ok,Data Lost,South,120
+STN_0286,Sahara,30,45%,17,20,100,2025-10-03,Inactive,Data Lost,South,2000
+STN_0287,Sahara,15,35%,18,0,50,2025-10-03,Faulty,Data Lost,North,2000
+STN_0288,Himalaya,40,100%,18,20,150,2025-10-03,Off,Data Lost,North,2000
+STN_0289,Himalaya,40,60%,17,4,400,2025-10-03,Active,Normal,North,2300
+STN_0290,Pacific,22,90%,17,0,400,2025-10-03,Inactive,Storm Impact,North,550
+STN_0291,Pacific,30,35%,18,4,50,2025-10-02,Ok,Data Lost,East,2000
+STN_0292,Pacific,-5,35%,25,20,150,2025-10-03,Off,Data Lost,East,2300
+STN_0293,Amazon,22,68%,12,0,400,2025-10-03,Ok,Data Lost,East,2300
+STN_0294,Amazon,30,75%,17,12,150,2025-10-02,Active,Normal,East,2300
+STN_0295,Pacific,22,35%,25,0,400,2025-10-01,Active,Data Lost,East,2000
+STN_0296,Pacific,40,80%,15,0,100,2025-10-01,Inactive,Storm Impact,North,120
+STN_0297,Pacific,30,75%,25,4,100,2025-10-03,Inactive,Calibration Needed,North,550
+STN_0298,Pacific,21,80%,17,20,150,2025-10-03,Active,Normal,North,550
+STN_0299,Pacific,22,100%,15,12,50,2025-10-03,Off,Data Lost,West,120
+STN_0300,Desrt ,15,60%,17,0,150,2025-10-01,Off,Storm Impact,West,2000
+STN_0301,Arctic,22,45%,18,12,400,2025-10-03,Faulty,Data Lost,South,550
+STN_0302,Pacific,30,35%,12,12,100,2025-10-02,Ok,Data Lost,South,2000
+STN_0303,Himalaya,30,60%,17,20,50,2025-10-03,Ok,Calibration Needed,South,2000
+STN_0304,Pacific,-5,100%,17,0,150,2025-10-03,Ok,Data Lost,East,2000
+STN_0305,Pacific,30,90%,18,20,40,2025-10-01,Ok,Data Lost,West,2300
+STN_0306,Pacific,21,90%,17,20,400,2025-10-01,Faulty,Check Sensor,West,120
+STN_0307,Desrt ,30,100%,18,12,40,2025-10-01,Active,Data Lost,South,2000
+STN_0308,Desrt ,30,80%,15,12,40,2025-10-03,Faulty,Calibration Needed,South,2000
+STN_0309,Amazon,21,68%,18,20,100,2025-10-03,Active,Check Sensor,West,2000
+STN_0310,Desrt ,21,68%,18,12,150,2025-10-03,Active,Check Sensor,West,120
+STN_0311,Himalaya,30,80%,12,12,400,2025-10-02,Ok,Data Lost,West,550
+STN_0312,Himalaya,15,90%,18,12,40,2025-10-03,Off,Data Lost,South,2300
+STN_0313,Desrt ,21,90%,17,0,40,2025-10-03,Faulty,Data Lost,South,550
+STN_0314,Pacific,-5,35%,12,20,150,2025-10-03,Faulty,Check Sensor,West,550
+STN_0315,Arctic,30,90%,17,12,100,2025-10-01,Faulty,Data Lost,West,550
+STN_0316,Desrt ,30,60%,17,20,100,2025-10-03,Ok,Calibration Needed,North,550
+STN_0317,Pacific,40,90%,12,20,400,2025-10-02,Active,Data Lost,West,120
+STN_0318,Sahara,21,75%,15,12,400,2025-10-03,Ok,Normal,North,550
+STN_0319,Arctic,30,35%,17,20,50,2025-10-03,Inactive,Normal,North,2000
+STN_0320,Arctic,21,45%,12,0,150,2025-10-02,Inactive,Data Lost,North,550
+STN_0321,Himalaya,22,90%,12,20,100,2025-10-03,Inactive,Check Sensor,North,2300
+STN_0322,Arctic,30,80%,17,4,150,2025-10-03,Ok,Check Sensor,North,2300
+STN_0323,Desrt ,30,45%,17,20,100,2025-10-03,Ok,Storm Impact,North,2300
+STN_0324,Pacific,22,60%,15,4,150,2025-10-03,Ok,Normal,East,2300
+STN_0325,Pacific,21,80%,25,12,150,2025-10-01,Inactive,Calibration Needed,East,550
+STN_0326,Amazon,22,45%,25,0,40,2025-10-03,Inactive,Check Sensor,West,2300
+STN_0327,Pacific,30,80%,12,0,100,2025-10-02,Inactive,Data Lost,West,120
+STN_0328,Pacific,30,60%,18,20,150,2025-10-03,Active,Normal,South,2300
+STN_0329,Himalaya,21,35%,15,20,50,2025-10-01,Ok,Calibration Needed,South,2000
+STN_0330,Pacific,15,75%,17,20,150,2025-10-03,Ok,Calibration Needed,North,120
+STN_0331,Amazon,21,60%,18,0,150,2025-10-03,Inactive,Check Sensor,North,120
+STN_0332,Sahara,30,60%,18,20,50,2025-10-01,Faulty,Calibration Needed,East,2000
+STN_0333,Desrt ,30,80%,15,0,150,2025-10-02,Faulty,Check Sensor,East,550
+STN_0334,Himalaya,21,35%,17,20,400,2025-10-03,Off,Data Lost,East,550
+STN_0335,Sahara,-5,100%,12,12,50,2025-10-03,Active,Normal,East,550
+STN_0336,Himalaya,22,68%,12,0,150,2025-10-03,Active,Storm Impact,South,2000
+STN_0337,Pacific,15,90%,12,4,50,2025-10-03,Faulty,Data Lost,South,2000
+STN_0338,Arctic,30,90%,12,20,50,2025-10-01,Inactive,Normal,East,2000
+STN_0339,Pacific,-5,75%,25,0,100,2025-10-01,Inactive,Check Sensor,North,120
+STN_0340,Pacific,40,75%,12,0,150,2025-10-03,Inactive,Normal,North,120
+STN_0341,Sahara,30,90%,25,20,400,2025-10-03,Active,Check Sensor,North,120
+STN_0342,Pacific,21,68%,25,20,40,2025-10-03,Inactive,Data Lost,North,550
+STN_0343,Arctic,21,90%,17,12,100,2025-10-02,Active,Data Lost,East,550
+STN_0344,Himalaya,22,100%,12,20,50,2025-10-03,Inactive,Data Lost,West,2300
+STN_0345,Arctic,21,68%,17,12,40,2025-10-02,Faulty,Normal,West,550
+STN_0346,Amazon,15,75%,17,20,400,2025-10-03,Ok,Data Lost,East,550
+STN_0347,Arctic,30,45%,18,20,40,2025-10-03,Faulty,Check Sensor,East,120
+STN_0348,Amazon,21,80%,25,0,50,2025-10-03,Faulty,Calibration Needed,East,2000
+STN_0349,Arctic,22,100%,15,20,50,2025-10-03,Ok,Check Sensor,East,120
+STN_0350,Desrt ,30,100%,15,20,150,2025-10-03,Ok,Calibration Needed,South,2000
+STN_0351,Amazon,21,35%,17,12,150,2025-10-01,Ok,Data Lost,East,2000
+STN_0352,Sahara,21,75%,15,12,100,2025-10-01,Ok,Storm Impact,East,2000
+STN_0353,Pacific,30,75%,17,20,400,2025-10-03,Faulty,Calibration Needed,East,2000
+STN_0354,Pacific,30,60%,15,20,100,2025-10-02,Faulty,Data Lost,East,2000
+STN_0355,Pacific,30,100%,18,20,150,2025-10-03,Active,Check Sensor,East,120
+STN_0356,Pacific,40,60%,18,12,50,2025-10-03,Active,Data Lost,East,2000
+STN_0357,Himalaya,30,60%,25,20,40,2025-10-01,Active,Data Lost,North,2000
+STN_0358,Desrt ,21,80%,12,20,400,2025-10-03,Off,Data Lost,East,2000
+STN_0359,Arctic,30,60%,17,12,50,2025-10-01,Off,Storm Impact,West,550
+STN_0360,Pacific,-5,68%,17,0,50,2025-10-03,Off,Check Sensor,East,550
+STN_0361,Himalaya,22,90%,25,4,100,2025-10-02,Active,Normal,East,550
+STN_0362,Himalaya,-5,45%,17,0,400,2025-10-03,Active,Check Sensor,East,2000
+STN_0363,Amazon,21,75%,12,12,400,2025-10-03,Off,Storm Impact,East,2000
+STN_0364,Pacific,21,68%,15,4,400,2025-10-03,Inactive,Check Sensor,East,120
+STN_0365,Sahara,-5,45%,15,20,100,2025-10-03,Inactive,Normal,East,120
+STN_0366,Sahara,30,100%,17,20,50,2025-10-03,Active,Calibration Needed,East,120
+STN_0367,Pacific,21,100%,12,12,100,2025-10-03,Inactive,Data Lost,West,550
+STN_0368,Desrt ,21,100%,25,20,150,2025-10-02,Ok,Normal,West,550
+STN_0369,Sahara,-5,68%,17,20,150,2025-10-03,Ok,Data Lost,East,550
+STN_0370,Arctic,40,68%,12,12,100,2025-10-03,Ok,Storm Impact,East,120
+STN_0371,Sahara,-5,75%,17,0,400,2025-10-03,Active,Calibration Needed,East,2300
+STN_0372,Pacific,40,90%,18,12,50,2025-10-02,Faulty,Data Lost,East,2000
+STN_0373,Sahara,21,35%,17,12,100,2025-10-03,Off,Data Lost,South,2000
+STN_0374,Arctic,22,60%,17,12,100,2025-10-02,Active,Storm Impact,North,2300
+STN_0375,Amazon,-5,100%,25,12,100,2025-10-03,Inactive,Calibration Needed,West,550
+STN_0376,Desrt ,15,80%,17,12,150,2025-10-03,Off,Data Lost,East,550
+STN_0377,Pacific,40,90%,17,4,150,2025-10-03,Faulty,Data Lost,South,2000
+STN_0378,Amazon,-5,80%,25,0,40,2025-10-02,Inactive,Calibration Needed,East,2300
+STN_0379,Amazon,30,75%,12,20,400,2025-10-03,Ok,Check Sensor,East,2300
+STN_0380,Amazon,30,75%,12,12,400,2025-10-02,Inactive,Data Lost,East,2300
+STN_0381,Himalaya,15,75%,12,20,40,2025-10-03,Ok,Data Lost,East,550
+STN_0382,Desrt ,15,45%,12,0,400,2025-10-03,Off,Calibration Needed,East,550
+STN_0383,Pacific,40,80%,17,12,400,2025-10-02,Ok,Data Lost,South,120
+STN_0384,Desrt ,30,90%,17,20,150,2025-10-03,Off,Storm Impact,East,2000
+STN_0385,Himalaya,30,35%,15,12,100,2025-10-03,Off,Normal,North,120
+STN_0386,Pacific,21,90%,18,20,150,2025-10-03,Off,Data Lost,West,2300
+STN_0387,Desrt ,40,68%,17,0,150,2025-10-03,Off,Normal,West,2300
+STN_0388,Amazon,22,68%,17,0,40,2025-10-02,Off,Normal,West,2300
+STN_0389,Pacific,30,100%,15,0,50,2025-10-03,Inactive,Data Lost,East,550
+STN_0390,Pacific,21,35%,15,0,40,2025-10-01,Off,Data Lost,East,550
+STN_0391,Arctic,15,68%,18,0,150,2025-10-01,Inactive,Data Lost,South,550
+STN_0392,Arctic,21,75%,18,0,400,2025-10-03,Off,Check Sensor,South,550
+STN_0393,Sahara,-5,90%,15,12,100,2025-10-03,Ok,Normal,South,2300
+STN_0394,Pacific,-5,80%,12,12,40,2025-10-03,Off,Data Lost,East,2300
+STN_0395,Pacific,21,75%,17,20,400,2025-10-03,Faulty,Check Sensor,North,2300
+STN_0396,Himalaya,-5,45%,25,0,400,2025-10-01,Off,Calibration Needed,West,2300
+STN_0397,Amazon,22,68%,18,12,400,2025-10-03,Off,Check Sensor,East,2300
+STN_0398,Sahara,30,75%,18,12,400,2025-10-03,Ok,Storm Impact,East,120
+STN_0399,Arctic,-5,75%,15,12,40,2025-10-03,Ok,Data Lost,East,2300
+STN_0400,Himalaya,21,45%,17,12,150,2025-10-03,Ok,Calibration Needed,South,550
+STN_0401,Himalaya,-5,60%,25,20,40,2025-10-01,Faulty,Calibration Needed,West,120
+STN_0402,Amazon,30,90%,25,12,400,2025-10-01,Faulty,Storm Impact,West,2000
+STN_0403,Pacific,22,80%,18,4,400,2025-10-03,Active,Check Sensor,East,2300
+STN_0404,Arctic,30,100%,12,20,400,2025-10-02,Active,Data Lost,East,2300
+STN_0405,Pacific,30,60%,17,12,400,2025-10-03,Faulty,Check Sensor,East,2300
+STN_0406,Himalaya,21,68%,25,4,150,2025-10-03,Ok,Data Lost,East,2000
+STN_0407,Amazon,22,75%,18,0,150,2025-10-03,Inactive,Check Sensor,West,2000
+STN_0408,Pacific,22,35%,25,0,50,2025-10-03,Faulty,Calibration Needed,South,2000
+STN_0409,Pacific,40,45%,17,20,100,2025-10-03,Faulty,Data Lost,West,550
+STN_0410,Arctic,22,45%,17,0,400,2025-10-02,Faulty,Check Sensor,West,550
+STN_0411,Pacific,22,35%,17,12,100,2025-10-02,Off,Data Lost,North,2300
+STN_0412,Himalaya,22,90%,17,20,50,2025-10-03,Active,Data Lost,South,2300
+STN_0413,Pacific,21,60%,17,20,40,2025-10-03,Active,Data Lost,West,2300
+STN_0414,Pacific,-5,100%,17,4,100,2025-10-02,Faulty,Data Lost,West,2300
+STN_0415,Pacific,40,90%,15,20,50,2025-10-01,Faulty,Calibration Needed,North,2000
+STN_0416,Himalaya,30,35%,15,12,400,2025-10-03,Faulty,Storm Impact,North,550
+STN_0417,Himalaya,22,75%,18,0,150,2025-10-03,Inactive,Data Lost,East,550
+STN_0418,Pacific,15,35%,17,20,400,2025-10-03,Off,Storm Impact,East,120
+STN_0419,Sahara,-5,90%,17,20,50,2025-10-03,Active,Calibration Needed,East,550
+STN_0420,Pacific,-5,80%,17,20,100,2025-10-03,Active,Data Lost,South,550
+STN_0421,Arctic,30,45%,25,0,400,2025-10-03,Faulty,Data Lost,East,550
+STN_0422,Amazon,21,45%,25,20,150,2025-10-03,Ok,Normal,East,2000
+STN_0423,Pacific,21,68%,17,4,400,2025-10-01,Active,Storm Impact,South,120
+STN_0424,Sahara,21,68%,17,0,40,2025-10-03,Inactive,Check Sensor,East,2000
+STN_0425,Amazon,-5,35%,17,20,400,2025-10-03,Faulty,Data Lost,East,120
+STN_0426,Sahara,30,100%,17,4,40,2025-10-03,Off,Check Sensor,West,120
+STN_0427,Desrt ,30,75%,25,4,50,2025-10-03,Off,Storm Impact,West,120
+STN_0428,Pacific,30,80%,17,0,150,2025-10-02,Inactive,Data Lost,North,120
+STN_0429,Himalaya,21,60%,17,20,100,2025-10-03,Inactive,Check Sensor,East,120
+STN_0430,Pacific,-5,90%,12,12,150,2025-10-03,Off,Normal,North,120
+STN_0431,Pacific,21,100%,17,20,150,2025-10-03,Off,Data Lost,North,550
+STN_0432,Amazon,21,75%,17,12,150,2025-10-03,Off,Data Lost,North,550
+STN_0433,Desrt ,-5,68%,17,20,150,2025-10-01,Faulty,Check Sensor,South,550
+STN_0434,Desrt ,-5,35%,17,0,150,2025-10-03,Ok,Data Lost,South,550
+STN_0435,Desrt ,22,90%,17,12,400,2025-10-03,Faulty,Normal,East,120
+STN_0436,Amazon,21,68%,25,4,100,2025-10-02,Ok,Data Lost,North,120
+STN_0437,Amazon,22,35%,25,12,400,2025-10-01,Inactive,Data Lost,West,120
+STN_0438,Amazon,30,90%,15,20,400,2025-10-02,Active,Normal,North,2300
+STN_0439,Amazon,22,60%,17,4,50,2025-10-03,Faulty,Check Sensor,West,2300
+STN_0440,Desrt ,15,75%,18,20,400,2025-10-03,Faulty,Calibration Needed,West,2300
+STN_0441,Desrt ,22,90%,15,4,150,2025-10-03,Ok,Check Sensor,West,120
+STN_0442,Sahara,15,80%,25,12,150,2025-10-03,Inactive,Storm Impact,South,120
+STN_0443,Pacific,21,100%,17,4,40,2025-10-03,Inactive,Normal,North,120
+STN_0444,Pacific,30,45%,25,4,50,2025-10-01,Ok,Check Sensor,North,550
+STN_0445,Himalaya,40,80%,17,12,40,2025-10-03,Inactive,Data Lost,North,550
+STN_0446,Desrt ,40,80%,15,20,40,2025-10-03,Off,Normal,North,120
+STN_0447,Himalaya,-5,100%,17,20,400,2025-10-03,Off,Data Lost,South,120
+STN_0448,Pacific,40,45%,25,0,100,2025-10-03,Off,Check Sensor,West,120
+STN_0449,Pacific,15,80%,17,0,100,2025-10-03,Active,Normal,South,120
+STN_0450,Himalaya,21,90%,17,12,400,2025-10-02,Faulty,Check Sensor,North,120
+STN_0451,Desrt ,22,90%,17,0,400,2025-10-03,Active,Normal,East,120
+STN_0452,Himalaya,15,90%,18,20,400,2025-10-03,Faulty,Data Lost,East,2300
+STN_0453,Sahara,21,45%,17,12,400,2025-10-03,Faulty,Data Lost,West,2300
+STN_0454,Arctic,30,80%,15,0,100,2025-10-03,Inactive,Data Lost,West,2300
+STN_0455,Desrt ,40,35%,18,20,40,2025-10-03,Off,Storm Impact,West,2300
+STN_0456,Desrt ,30,45%,18,0,150,2025-10-03,Ok,Normal,West,2300
+STN_0457,Pacific,40,90%,12,0,150,2025-10-03,Off,Check Sensor,West,2300
+STN_0458,Amazon,22,100%,25,12,150,2025-10-01,Off,Data Lost,East,2300
+STN_0459,Arctic,30,80%,17,20,150,2025-10-03,Active,Data Lost,West,2300
+STN_0460,Pacific,22,80%,18,12,100,2025-10-01,Ok,Calibration Needed,South,120
+STN_0461,Desrt ,21,68%,12,4,150,2025-10-02,Inactive,Calibration Needed,South,120
+STN_0462,Himalaya,15,68%,15,0,400,2025-10-03,Inactive,Data Lost,South,2300
+STN_0463,Arctic,-5,60%,17,12,50,2025-10-01,Ok,Normal,South,2000
+STN_0464,Pacific,30,35%,17,0,400,2025-10-03,Ok,Storm Impact,South,2000
+STN_0465,Pacific,22,35%,17,12,50,2025-10-03,Ok,Data Lost,South,2000
+STN_0466,Amazon,21,75%,17,0,40,2025-10-02,Inactive,Data Lost,North,2000
+STN_0467,Amazon,30,35%,18,0,150,2025-10-03,Faulty,Check Sensor,North,550
+STN_0468,Pacific,15,68%,17,0,400,2025-10-03,Ok,Storm Impact,South,120
+STN_0469,Pacific,40,45%,25,0,150,2025-10-03,Inactive,Data Lost,West,120
+STN_0470,Himalaya,30,35%,17,12,150,2025-10-02,Inactive,Storm Impact,West,550
+STN_0471,Desrt ,40,68%,17,20,400,2025-10-03,Inactive,Data Lost,South,550
+STN_0472,Amazon,15,60%,17,0,400,2025-10-03,Faulty,Check Sensor,East,550
+STN_0473,Pacific,22,80%,12,20,400,2025-10-01,Off,Check Sensor,West,550
+STN_0474,Arctic,15,35%,18,12,400,2025-10-03,Ok,Calibration Needed,East,2000
+STN_0475,Pacific,30,60%,25,12,400,2025-10-03,Faulty,Normal,East,2000
+STN_0476,Sahara,21,80%,18,20,150,2025-10-01,Active,Data Lost,West,2000
+STN_0477,Sahara,30,100%,17,12,50,2025-10-03,Ok,Calibration Needed,West,2300
+STN_0478,Pacific,30,100%,17,12,400,2025-10-02,Faulty,Data Lost,South,550
+STN_0479,Himalaya,15,80%,17,4,150,2025-10-01,Faulty,Calibration Needed,South,550
+STN_0480,Sahara,30,35%,15,12,400,2025-10-03,Ok,Check Sensor,North,2000
+STN_0481,Amazon,15,75%,17,0,40,2025-10-03,Ok,Storm Impact,West,120
+STN_0482,Pacific,21,68%,15,20,50,2025-10-03,Inactive,Calibration Needed,West,120
+STN_0483,Pacific,15,45%,12,20,40,2025-10-02,Inactive,Data Lost,West,120
+STN_0484,Pacific,22,45%,17,20,150,2025-10-03,Active,Data Lost,West,120
+STN_0485,Desrt ,-5,90%,25,12,40,2025-10-03,Off,Normal,East,120
+STN_0486,Desrt ,40,80%,18,12,150,2025-10-03,Faulty,Check Sensor,East,2000
+STN_0487,Arctic,40,45%,17,4,150,2025-10-03,Inactive,Data Lost,East,2300
+STN_0488,Pacific,30,35%,17,12,400,2025-10-03,Faulty,Data Lost,East,2300
+STN_0489,Arctic,-5,75%,25,20,150,2025-10-01,Active,Storm Impact,East,2000
+STN_0490,Desrt ,15,80%,17,0,100,2025-10-03,Active,Calibration Needed,North,2300
+STN_0491,Pacific,21,75%,15,12,400,2025-10-03,Ok,Normal,East,120
+STN_0492,Pacific,30,35%,15,20,400,2025-10-01,Active,Storm Impact,East,2300
+STN_0493,Pacific,15,45%,25,0,400,2025-10-01,Faulty,Check Sensor,West,2300
+STN_0494,Desrt ,30,45%,15,0,100,2025-10-01,Faulty,Normal,West,2000
+STN_0495,Arctic,21,90%,17,4,40,2025-10-01,Faulty,Calibration Needed,South,2000
+STN_0496,Arctic,15,45%,12,0,150,2025-10-03,Ok,Calibration Needed,North,2300
+STN_0497,Pacific,-5,80%,18,12,40,2025-10-03,Off,Data Lost,North,550
+STN_0498,Sahara,30,35%,12,12,150,2025-10-03,Faulty,Check Sensor,North,2000
+STN_0499,Himalaya,-5,100%,17,0,150,2025-10-03,Faulty,Normal,North,2000
+STN_0500,Desrt ,30,35%,18,12,50,2025-10-03,Active,Normal,North,2000
